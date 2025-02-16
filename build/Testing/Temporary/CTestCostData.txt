@@ -1,0 +1,14 @@
+DSLInterpreter 8 0.000483813
+Recordtest 75 0.000515077
+Computetest 75 0.0208963
+Comparetest 75 0.00484612
+Defaulttest 74 0.00502991
+Jumpttest 73 0.0048045
+Outputtest 71 0.00521879
+Timeouttest 69 0.0048947
+Waitinputtest 1 0
+Statetest 62 0.00675846
+Pharsertest 45 0.00861323
+Concurrencytest 15 2.0385
+Scriptnameerror 0 0
+---

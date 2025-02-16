@@ -1,0 +1,19 @@
+# Users can check their balance or recharge/withdraw money
+let username = "zhangsan"
+let reminder = 400
+let password = "123"
+
+let username = "lisi"
+let reminder = 500
+let password = "456"
+
+State Start
+    Output Hello! Please input your username:"
+    Waitinput
+    $username =
+    Timeout 30 Exitfortime
+    Output "Please input your password"
+    Waitinput
+    Compare $password != to Wrongpassword
+    Timeout 30 Exitfortime
+    Jump Selectoption

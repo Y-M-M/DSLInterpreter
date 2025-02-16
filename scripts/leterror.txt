@@ -1,0 +1,8 @@
+# Users can check their balance or recharge/withdraw money
+let username = "zhangsan"
+let reminder = 400
+le password = "123"
+
+let username = "lisi"
+let reminder = 500
+let password = "456"

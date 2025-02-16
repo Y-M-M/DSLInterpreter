@@ -1,0 +1,46 @@
+# Users can check things numbers that they had buy
+let username = "zhangsan"
+let number = 4
+
+let username = "lisi"
+let number = 5
+
+State Start
+    Output "Hello! Please input your username:"
+    Waitinput
+    $username =
+    Timeout 30 Exitfortime
+    Jump Selectoption
+
+State Selectoption
+    Output "$username，Hello, may I ask what operation you need to perform? The operation code is as follows:"
+    Output "---------------------"
+    Output "0: Exit;"
+    Output "1: check how many things you had bought;"
+    Output "2: complaint;"
+    Output "---------------------"
+    Waitinput
+    Jump "0" Normalexit
+    Jump "1" Query
+    Jump "2" Complain
+    Default "Sorry, we were unable to recognize your command. Please re-enter:" Selectoption
+    Timeout 30 Exitfortime
+
+State Normalexit
+    Output "Normal exit"
+    Exit
+
+State Query
+    Output "The number of things that you had buy is $number"
+    Jump Selectoption
+
+State Complain
+    Output "ok! Please input what you want to say"
+    Waitinput
+    Timeout 30 Exitfortime
+    Output "Thank you for your suggestion, we will handle it as soon as possible!"
+    Jump Selectoption
+
+State Exitfortime
+    Output "Waiting time too long... disconnected, please log in again if necessary."
+    Exit

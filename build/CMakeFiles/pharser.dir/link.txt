@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpharser.a CMakeFiles/pharser.dir/src/pharser.cpp.o
+/usr/bin/ranlib libpharser.a

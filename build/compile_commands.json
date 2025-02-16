@@ -1,0 +1,140 @@
+[
+{
+  "directory": "/Users/mac/Workspace/DSL_Interpreter/build",
+  "command": "/usr/bin/clang++  -I/Users/mac/Workspace/DSL_Interpreter/include  -fsanitize=address -fno-omit-frame-pointer -g -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/record.dir/src/record.cpp.o -c /Users/mac/Workspace/DSL_Interpreter/src/record.cpp",
+  "file": "/Users/mac/Workspace/DSL_Interpreter/src/record.cpp",
+  "output": "CMakeFiles/record.dir/src/record.cpp.o"
+},
+{
+  "directory": "/Users/mac/Workspace/DSL_Interpreter/build",
+  "command": "/usr/bin/clang++  -I/Users/mac/Workspace/DSL_Interpreter/include  -fsanitize=address -fno-omit-frame-pointer -g -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/step.dir/src/steps.cpp.o -c /Users/mac/Workspace/DSL_Interpreter/src/steps.cpp",
+  "file": "/Users/mac/Workspace/DSL_Interpreter/src/steps.cpp",
+  "output": "CMakeFiles/step.dir/src/steps.cpp.o"
+},
+{
+  "directory": "/Users/mac/Workspace/DSL_Interpreter/build",
+  "command": "/usr/bin/clang++  -I/Users/mac/Workspace/DSL_Interpreter/include  -fsanitize=address -fno-omit-frame-pointer -g -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/state.dir/src/state.cpp.o -c /Users/mac/Workspace/DSL_Interpreter/src/state.cpp",
+  "file": "/Users/mac/Workspace/DSL_Interpreter/src/state.cpp",
+  "output": "CMakeFiles/state.dir/src/state.cpp.o"
+},
+{
+  "directory": "/Users/mac/Workspace/DSL_Interpreter/build",
+  "command": "/usr/bin/clang++  -I/Users/mac/Workspace/DSL_Interpreter/include  -fsanitize=address -fno-omit-frame-pointer -g -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/pharser.dir/src/pharser.cpp.o -c /Users/mac/Workspace/DSL_Interpreter/src/pharser.cpp",
+  "file": "/Users/mac/Workspace/DSL_Interpreter/src/pharser.cpp",
+  "output": "CMakeFiles/pharser.dir/src/pharser.cpp.o"
+},
+{
+  "directory": "/Users/mac/Workspace/DSL_Interpreter/build",
+  "command": "/usr/bin/clang++  -I/Users/mac/Workspace/DSL_Interpreter/include  -fsanitize=address -fno-omit-frame-pointer -g -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/DSLInterpreter.dir/src/main.cpp.o -c /Users/mac/Workspace/DSL_Interpreter/src/main.cpp",
+  "file": "/Users/mac/Workspace/DSL_Interpreter/src/main.cpp",
+  "output": "CMakeFiles/DSLInterpreter.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/mac/Workspace/DSL_Interpreter/build",
+  "command": "/usr/bin/clang++  -I/Users/mac/Workspace/DSL_Interpreter/include  -fsanitize=address -fno-omit-frame-pointer -g -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/DSLInterpreter.dir/src/pharser.cpp.o -c /Users/mac/Workspace/DSL_Interpreter/src/pharser.cpp",
+  "file": "/Users/mac/Workspace/DSL_Interpreter/src/pharser.cpp",
+  "output": "CMakeFiles/DSLInterpreter.dir/src/pharser.cpp.o"
+},
+{
+  "directory": "/Users/mac/Workspace/DSL_Interpreter/build",
+  "command": "/usr/bin/clang++  -I/Users/mac/Workspace/DSL_Interpreter/include  -fsanitize=address -fno-omit-frame-pointer -g -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/DSLInterpreter.dir/src/record.cpp.o -c /Users/mac/Workspace/DSL_Interpreter/src/record.cpp",
+  "file": "/Users/mac/Workspace/DSL_Interpreter/src/record.cpp",
+  "output": "CMakeFiles/DSLInterpreter.dir/src/record.cpp.o"
+},
+{
+  "directory": "/Users/mac/Workspace/DSL_Interpreter/build",
+  "command": "/usr/bin/clang++  -I/Users/mac/Workspace/DSL_Interpreter/include  -fsanitize=address -fno-omit-frame-pointer -g -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/DSLInterpreter.dir/src/state.cpp.o -c /Users/mac/Workspace/DSL_Interpreter/src/state.cpp",
+  "file": "/Users/mac/Workspace/DSL_Interpreter/src/state.cpp",
+  "output": "CMakeFiles/DSLInterpreter.dir/src/state.cpp.o"
+},
+{
+  "directory": "/Users/mac/Workspace/DSL_Interpreter/build",
+  "command": "/usr/bin/clang++  -I/Users/mac/Workspace/DSL_Interpreter/include  -fsanitize=address -fno-omit-frame-pointer -g -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/DSLInterpreter.dir/src/steps.cpp.o -c /Users/mac/Workspace/DSL_Interpreter/src/steps.cpp",
+  "file": "/Users/mac/Workspace/DSL_Interpreter/src/steps.cpp",
+  "output": "CMakeFiles/DSLInterpreter.dir/src/steps.cpp.o"
+},
+{
+  "directory": "/Users/mac/Workspace/DSL_Interpreter/build",
+  "command": "/usr/bin/clang++  -I/Users/mac/Workspace/DSL_Interpreter/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest  -fsanitize=address -fno-omit-frame-pointer -g -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/recordtest.dir/test/recordtest.cpp.o -c /Users/mac/Workspace/DSL_Interpreter/test/recordtest.cpp",
+  "file": "/Users/mac/Workspace/DSL_Interpreter/test/recordtest.cpp",
+  "output": "CMakeFiles/recordtest.dir/test/recordtest.cpp.o"
+},
+{
+  "directory": "/Users/mac/Workspace/DSL_Interpreter/build",
+  "command": "/usr/bin/clang++  -I/Users/mac/Workspace/DSL_Interpreter/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest  -fsanitize=address -fno-omit-frame-pointer -g -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/comparetest.dir/test/comparetest.cpp.o -c /Users/mac/Workspace/DSL_Interpreter/test/comparetest.cpp",
+  "file": "/Users/mac/Workspace/DSL_Interpreter/test/comparetest.cpp",
+  "output": "CMakeFiles/comparetest.dir/test/comparetest.cpp.o"
+},
+{
+  "directory": "/Users/mac/Workspace/DSL_Interpreter/build",
+  "command": "/usr/bin/clang++  -I/Users/mac/Workspace/DSL_Interpreter/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest  -fsanitize=address -fno-omit-frame-pointer -g -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/computetest.dir/test/computetest.cpp.o -c /Users/mac/Workspace/DSL_Interpreter/test/computetest.cpp",
+  "file": "/Users/mac/Workspace/DSL_Interpreter/test/computetest.cpp",
+  "output": "CMakeFiles/computetest.dir/test/computetest.cpp.o"
+},
+{
+  "directory": "/Users/mac/Workspace/DSL_Interpreter/build",
+  "command": "/usr/bin/clang++  -I/Users/mac/Workspace/DSL_Interpreter/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest  -fsanitize=address -fno-omit-frame-pointer -g -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/defaulttest.dir/test/defaulttest.cpp.o -c /Users/mac/Workspace/DSL_Interpreter/test/defaulttest.cpp",
+  "file": "/Users/mac/Workspace/DSL_Interpreter/test/defaulttest.cpp",
+  "output": "CMakeFiles/defaulttest.dir/test/defaulttest.cpp.o"
+},
+{
+  "directory": "/Users/mac/Workspace/DSL_Interpreter/build",
+  "command": "/usr/bin/clang++  -I/Users/mac/Workspace/DSL_Interpreter/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest  -fsanitize=address -fno-omit-frame-pointer -g -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/jumptest.dir/test/jumptest.cpp.o -c /Users/mac/Workspace/DSL_Interpreter/test/jumptest.cpp",
+  "file": "/Users/mac/Workspace/DSL_Interpreter/test/jumptest.cpp",
+  "output": "CMakeFiles/jumptest.dir/test/jumptest.cpp.o"
+},
+{
+  "directory": "/Users/mac/Workspace/DSL_Interpreter/build",
+  "command": "/usr/bin/clang++  -I/Users/mac/Workspace/DSL_Interpreter/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest  -fsanitize=address -fno-omit-frame-pointer -g -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/outputtest.dir/test/outputtest.cpp.o -c /Users/mac/Workspace/DSL_Interpreter/test/outputtest.cpp",
+  "file": "/Users/mac/Workspace/DSL_Interpreter/test/outputtest.cpp",
+  "output": "CMakeFiles/outputtest.dir/test/outputtest.cpp.o"
+},
+{
+  "directory": "/Users/mac/Workspace/DSL_Interpreter/build",
+  "command": "/usr/bin/clang++  -I/Users/mac/Workspace/DSL_Interpreter/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest  -fsanitize=address -fno-omit-frame-pointer -g -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/timeouttest.dir/test/timeouttest.cpp.o -c /Users/mac/Workspace/DSL_Interpreter/test/timeouttest.cpp",
+  "file": "/Users/mac/Workspace/DSL_Interpreter/test/timeouttest.cpp",
+  "output": "CMakeFiles/timeouttest.dir/test/timeouttest.cpp.o"
+},
+{
+  "directory": "/Users/mac/Workspace/DSL_Interpreter/build",
+  "command": "/usr/bin/clang++  -I/Users/mac/Workspace/DSL_Interpreter/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest  -fsanitize=address -fno-omit-frame-pointer -g -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/statetest.dir/test/statetest.cpp.o -c /Users/mac/Workspace/DSL_Interpreter/test/statetest.cpp",
+  "file": "/Users/mac/Workspace/DSL_Interpreter/test/statetest.cpp",
+  "output": "CMakeFiles/statetest.dir/test/statetest.cpp.o"
+},
+{
+  "directory": "/Users/mac/Workspace/DSL_Interpreter/build",
+  "command": "/usr/bin/clang++  -I/Users/mac/Workspace/DSL_Interpreter/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest  -fsanitize=address -fno-omit-frame-pointer -g -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/pharsertest.dir/test/pharsertest.cpp.o -c /Users/mac/Workspace/DSL_Interpreter/test/pharsertest.cpp",
+  "file": "/Users/mac/Workspace/DSL_Interpreter/test/pharsertest.cpp",
+  "output": "CMakeFiles/pharsertest.dir/test/pharsertest.cpp.o"
+},
+{
+  "directory": "/Users/mac/Workspace/DSL_Interpreter/build",
+  "command": "/usr/bin/clang++  -I/Users/mac/Workspace/DSL_Interpreter/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest  -fsanitize=address -fno-omit-frame-pointer -g -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/concurrencytest.dir/test/concurrencytest.cpp.o -c /Users/mac/Workspace/DSL_Interpreter/test/concurrencytest.cpp",
+  "file": "/Users/mac/Workspace/DSL_Interpreter/test/concurrencytest.cpp",
+  "output": "CMakeFiles/concurrencytest.dir/test/concurrencytest.cpp.o"
+},
+{
+  "directory": "/Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/clang++  -I/Users/mac/Workspace/DSL_Interpreter/include -I/Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googlemock/include -I/Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googlemock -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest -g -std=c++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/clang++  -I/Users/mac/Workspace/DSL_Interpreter/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googlemock/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googlemock -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest -g -std=c++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/clang++  -I/Users/mac/Workspace/DSL_Interpreter/include -I/Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/include -I/Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest -g -std=c++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/clang++  -I/Users/mac/Workspace/DSL_Interpreter/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/include -isystem /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest -g -std=c++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]

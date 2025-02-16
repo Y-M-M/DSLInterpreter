@@ -1,0 +1,332 @@
+-----------------------------------------
+10:19:15 
+10:19:15 Please enter the script file path and name (must be a.txt file): 
+10:19:25 ok! filename is ../scripts/shopping.txt
+10:19:25 open file succeed!
+
+10:19:25 begin to build analyze true!
+
+10:19:25 line 1 have been read!
+
+10:19:25 line 2 have been read!
+10:19:25 read variable name succeed! mainId = username
+10:19:25 begin to read value
+10:19:25 read value succeed! value = zhangsan
+10:19:25 read let succeed!
+
+10:19:25 line 3 have been read!
+10:19:25 read variable name succeed! mainId = number
+10:19:25 get '=' succeed!
+10:19:25 read let succeed!
+
+10:19:25 line 4 have been read!
+
+10:19:25 line 5 have been read!
+10:19:25 read variable name succeed! mainId = username
+10:19:25 add the last zhangsan'record
+10:19:25 begin to read value
+10:19:25 read value succeed! value = lisi
+10:19:25 read let succeed!
+
+10:19:25 line 6 have been read!
+10:19:25 read variable name succeed! mainId = number
+10:19:25 get '=' succeed!
+10:19:25 read let succeed!
+
+10:19:25 line 7 have been read!
+
+10:19:25 line 8 have been read!
+10:19:25 read statename succeed! Start
+10:19:25 read state succeed
+
+10:19:25 line 9 have been read!
+10:19:25 begin to read step, the first char is 79O
+
+10:19:25 line 10 have been read!
+10:19:25 begin to read step, the first char is 87W
+
+10:19:25 line 11 have been read!
+10:19:25 begin to read step, the first char is 36$
+10:19:25 read variablename succeed! username
+10:19:25 read operator succeed! 2
+
+10:19:25 line 12 have been read!
+10:19:25 begin to read step, the first char is 84T
+10:19:25 read number succeed! 30
+
+10:19:25 line 13 have been read!
+10:19:25 begin to read step, the first char is 74J
+10:19:25 read condition succeed! 
+
+10:19:25 line 14 have been read!
+
+10:19:25 line 15 have been read!
+10:19:25 read statename succeed! Selectoption
+10:19:25 read state succeed
+
+10:19:25 line 16 have been read!
+10:19:25 begin to read step, the first char is 79O
+
+10:19:25 line 17 have been read!
+10:19:25 begin to read step, the first char is 79O
+
+10:19:25 line 18 have been read!
+10:19:25 begin to read step, the first char is 79O
+
+10:19:25 line 19 have been read!
+10:19:25 begin to read step, the first char is 79O
+
+10:19:25 line 20 have been read!
+10:19:25 begin to read step, the first char is 79O
+
+10:19:25 line 21 have been read!
+10:19:25 begin to read step, the first char is 79O
+
+10:19:25 line 22 have been read!
+10:19:25 begin to read step, the first char is 87W
+
+10:19:25 line 23 have been read!
+10:19:25 begin to read step, the first char is 74J
+10:19:25 read condition succeed! 0
+
+10:19:25 line 24 have been read!
+10:19:25 begin to read step, the first char is 74J
+10:19:25 read condition succeed! 1
+
+10:19:25 line 25 have been read!
+10:19:25 begin to read step, the first char is 74J
+10:19:25 read condition succeed! 2
+
+10:19:25 line 26 have been read!
+10:19:25 begin to read step, the first char is 68D
+10:19:25 read infoout succeed!Sorry, we were unable to recognize your command. Please re-enter:
+10:19:25 read nextstate succeed! Selectoption
+
+10:19:25 line 27 have been read!
+10:19:25 begin to read step, the first char is 84T
+10:19:25 read number succeed! 30
+
+10:19:25 line 28 have been read!
+
+10:19:25 line 29 have been read!
+10:19:25 read statename succeed! Normalexit
+10:19:25 read state succeed
+
+10:19:25 line 30 have been read!
+10:19:25 begin to read step, the first char is 79O
+
+10:19:25 line 31 have been read!
+10:19:25 begin to read step, the first char is 69E
+
+10:19:25 line 32 have been read!
+
+10:19:25 line 33 have been read!
+10:19:25 read statename succeed! Query
+10:19:25 read state succeed
+
+10:19:25 line 34 have been read!
+10:19:25 begin to read step, the first char is 79O
+
+10:19:25 line 35 have been read!
+10:19:25 begin to read step, the first char is 74J
+10:19:25 read condition succeed! 
+
+10:19:25 line 36 have been read!
+
+10:19:25 line 37 have been read!
+10:19:25 read statename succeed! Complain
+10:19:25 read state succeed
+
+10:19:25 line 38 have been read!
+10:19:25 begin to read step, the first char is 79O
+
+10:19:25 line 39 have been read!
+10:19:25 begin to read step, the first char is 87W
+
+10:19:25 line 40 have been read!
+10:19:25 begin to read step, the first char is 84T
+10:19:25 read number succeed! 30
+
+10:19:25 line 41 have been read!
+10:19:25 begin to read step, the first char is 79O
+
+10:19:25 line 42 have been read!
+10:19:25 begin to read step, the first char is 74J
+10:19:25 read condition succeed! 
+
+10:19:25 line 43 have been read!
+
+10:19:25 line 44 have been read!
+10:19:25 read statename succeed! Exitfortime
+10:19:25 read state succeed
+
+10:19:25 line 45 have been read!
+10:19:25 begin to read step, the first char is 79O
+
+10:19:25 line 46 have been read!
+10:19:25 begin to read step, the first char is 69E
+
+print the pharser tree:
+State:
+Complain
+Exitfortime
+Normalexit
+Query
+Selectoption
+Start
+lisi
+zhangsan
+waiting:
+Step Waitinput
+Step Waitinput
+Step Waitinput
+exits:
+Step Exit
+Step Exit
+jumps:
+Step Jump:
+    nextstate: Selectoption
+Step Jump:
+    condition: 0
+    nextstate: Normalexit
+Step Jump:
+    condition: 1
+    nextstate: Query
+Step Jump:
+    condition: 2
+    nextstate: Complain
+Step Jump:
+    nextstate: Selectoption
+Step Jump:
+    nextstate: Selectoption
+Defaults:
+Step Default: 
+    output: Sorry, we were unable to recognize your command. Please re-enter:
+    nextstate: Selectoption
+Timeout:
+Step Timeout: 
+    time: 30
+    nextstate: Exitfortime
+Step Timeout: 
+    time: 30
+    nextstate: Exitfortime
+Step Timeout: 
+    time: 30
+    nextstate: Exitfortime
+Compare:
+Notfind:
+Compute:
+Step Compute: 
+    variable: username
+    operator: 2
+Output:
+Begin to print ouput:
+Step Output:
+    Hello! Please input your username:
+Begin to print ouput:
+Step Output:
+    $username，Hello, may I ask what operation you need to perform? The operation code is as follows:
+Begin to print ouput:
+Step Output:
+    ---------------------
+Begin to print ouput:
+Step Output:
+    0: Exit;
+Begin to print ouput:
+Step Output:
+    1: check how many things you had bought;
+Begin to print ouput:
+Step Output:
+    2: complaint;
+Begin to print ouput:
+Step Output:
+    ---------------------
+Begin to print ouput:
+Step Output:
+    Normal exit
+Begin to print ouput:
+Step Output:
+    The number of things that you had buy is $number
+Begin to print ouput:
+Step Output:
+    ok! Please input what you want to say
+Begin to print ouput:
+Step Output:
+    Thank you for your suggestion, we will handle it as soon as possible!
+Begin to print ouput:
+Step Output:
+    Waiting time too long... disconnected, please log in again if necessary.
+username
+2
+10:19:25 carry out Step Output
+10:19:25 carry out Step Waitinput
+find Timeout!
+10:19:29 read user input succeed
+10:19:29 carry out Compute
+10:19:29 the variable to be compute is username
+10:19:29 operator is =
+10:19:29 carry out Step Jump
+10:19:29 carry out no condition jump
+
+10:19:29 carry out Step Output
+10:19:29 the variable needed to be output is username
+the character that is found is lisi
+10:19:29 carry out Step Output
+10:19:29 carry out Step Output
+10:19:29 carry out Step Output
+10:19:29 carry out Step Output
+10:19:29 carry out Step Output
+10:19:29 carry out Step Waitinput
+find Timeout!
+10:19:31 read user input succeed
+10:19:31 carry out Step Jump
+10:19:31 carry out Step Jump
+10:19:31 carry out Step Jump
+10:19:31 carry out condition jump
+condition is 2
+
+10:19:31 carry out Step Output
+10:19:31 carry out Step Waitinput
+find Timeout!
+10:19:33 read user input succeed
+10:19:33 carry out Step Output
+10:19:33 carry out Step Jump
+10:19:33 carry out no condition jump
+
+10:19:33 carry out Step Output
+10:19:33 the variable needed to be output is username
+the character that is found is lisi
+10:19:33 carry out Step Output
+10:19:33 carry out Step Output
+10:19:33 carry out Step Output
+10:19:33 carry out Step Output
+10:19:33 carry out Step Output
+10:19:33 carry out Step Waitinput
+find Timeout!
+10:19:37 read user input succeed
+10:19:37 carry out Step Jump
+10:19:37 carry out Step Jump
+10:19:37 carry out condition jump
+condition is 1
+
+10:19:37 carry out Step Output
+10:19:37 the variable needed to be output is number
+the character that is found is 
+10:19:37 carry out Step Jump
+10:19:37 carry out no condition jump
+
+10:19:37 carry out Step Output
+10:19:37 the variable needed to be output is username
+the character that is found is lisi
+10:19:37 carry out Step Output
+10:19:37 carry out Step Output
+10:19:37 carry out Step Output
+10:19:37 carry out Step Output
+10:19:37 carry out Step Output
+10:19:37 carry out Step Waitinput
+find Timeout!
+10:20:07 carry out Step Timeout
+
+10:20:07 carry out Step Output
+10:20:07 carry out Step Exit
+

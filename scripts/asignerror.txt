@@ -1,0 +1,4 @@
+# assign_error
+let username = "zhangsan"
+let eminder = 400
+let password ! "123"

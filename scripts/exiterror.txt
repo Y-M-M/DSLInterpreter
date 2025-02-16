@@ -1,0 +1,79 @@
+# Users can check their balance or recharge/withdraw money
+let username = "zhangsan"
+let reminder = 400
+let password = "123"
+
+let username = "lisi"
+let reminder = 500
+let password = "456"
+
+State Start
+    Output "Hello! Please input your username:"
+    Waitinput
+    $username =
+    Timeout 30 Exitfortime
+    Output "Please input your password"
+    Waitinput
+    Compare $password != to Wrongpassword
+    Timeout 30 Exitfortime
+    Jump Selectoption
+
+State Wrongpassword
+    Output "Wrong password!"
+    Jump Start
+
+State Notexist
+    Output "The user does not exist!"
+    Jump Start
+
+State Selectoption
+    Output "$username，Hello, may I ask what operation you need to perform? The operation code is as follows:"
+    Output "---------------------"
+    Output "0: Exit;"
+    Output "1: check balance;"
+    Output "2: Recharge;"
+    Output "3: Withdraw money;"
+    Output "---------------------"
+    Waitinput
+    Jump "0" Normalexit
+    Jump "1" Query
+    Jump "2" Invest
+    Jump "3" Withdraw
+    Default "Sorry, we were unable to recognize your command. Please re-enter:" Selectoption
+    Timeout 30 Exitfortime
+
+State Normalexit
+    Output "Normal exit"
+    Exit
+
+State Query
+    Output "Your balance is $reminder"
+    Jump Selectoption
+
+State Invest
+    Output "I can recharge for you. How much do you want to recharge?"
+    Waitinput
+    $reminder +
+    Timeout 30 Restart
+    Output "Recharge completed! Your balance now is: $reminder"
+    Jump Selectoption
+
+State Withdraw
+    Output "I can withdraw a specified amount from your account. How much do you need?"
+    Waitinput
+    Compare $reminder < to Tomuchmoey
+    Timeout 30 Restart
+    $reminder -
+    Output "Extraction successful! Your balance now is: $reminder"
+    Jump Selectoption
+
+State Tomuchmoey
+    Output "I'm sorry! You don't have that much money in your account."
+    Jump Selectoption
+
+State Restart
+    Output "Waiting time too long... reset!"
+    Jump Selectoption
+
+State Exitfortime
+    Output "Waiting time too long... disconnected, please log in again if necessary."

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstep.a CMakeFiles/step.dir/src/steps.cpp.o
+/usr/bin/ranlib libstep.a

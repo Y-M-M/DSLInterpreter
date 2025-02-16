@@ -1,0 +1,363 @@
+Start testing: Dec 23 09:44 CST
+----------------------------------------------------------
+1/10 Testing: Recordtest
+1/10 Test: Recordtest
+Command: "/Users/mac/Workspace/DSL_Interpreter/build/testrecord"
+Directory: /Users/mac/Workspace/DSL_Interpreter/build
+"Recordtest" start time: Dec 23 09:44 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 5 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 2 tests from ModifyTest
+[ RUN      ] ModifyTest.addstringtest
+[       OK ] ModifyTest.addstringtest (0 ms)
+[ RUN      ] ModifyTest.cleartest
+[       OK ] ModifyTest.cleartest (0 ms)
+[----------] 2 tests from ModifyTest (0 ms total)
+
+[----------] 1 test from ModigyTest
+[ RUN      ] ModigyTest.addnumtest
+[       OK ] ModigyTest.addnumtest (0 ms)
+[----------] 1 test from ModigyTest (0 ms total)
+
+[----------] 2 tests from OperTest
+[ RUN      ] OperTest.addtest
+[       OK ] OperTest.addtest (0 ms)
+[ RUN      ] OperTest.reducetest
+[       OK ] OperTest.reducetest (0 ms)
+[----------] 2 tests from OperTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 5 tests.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"Recordtest" end time: Dec 23 09:44 CST
+"Recordtest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/10 Testing: Computetest
+2/10 Test: Computetest
+Command: "/Users/mac/Workspace/DSL_Interpreter/build/computetest"
+Directory: /Users/mac/Workspace/DSL_Interpreter/build
+"Computetest" start time: Dec 23 09:44 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ChectTest
+[ RUN      ] ChectTest.check
+[       OK ] ChectTest.check (0 ms)
+[----------] 1 test from ChectTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   1.57 sec
+----------------------------------------------------------
+Test Passed.
+"Computetest" end time: Dec 23 09:44 CST
+"Computetest" time elapsed: 00:00:01
+----------------------------------------------------------
+
+3/10 Testing: Comparetest
+3/10 Test: Comparetest
+Command: "/Users/mac/Workspace/DSL_Interpreter/build/comparetest"
+Directory: /Users/mac/Workspace/DSL_Interpreter/build
+"Comparetest" start time: Dec 23 09:44 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CheckTest
+[ RUN      ] CheckTest.check
+[       OK ] CheckTest.check (0 ms)
+[----------] 1 test from CheckTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.36 sec
+----------------------------------------------------------
+Test Passed.
+"Comparetest" end time: Dec 23 09:44 CST
+"Comparetest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/10 Testing: Defaulttest
+4/10 Test: Defaulttest
+Command: "/Users/mac/Workspace/DSL_Interpreter/build/defaulttest"
+Directory: /Users/mac/Workspace/DSL_Interpreter/build
+"Defaulttest" start time: Dec 23 09:44 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CheckTest
+[ RUN      ] CheckTest.check
+[       OK ] CheckTest.check (0 ms)
+[----------] 1 test from CheckTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.37 sec
+----------------------------------------------------------
+Test Passed.
+"Defaulttest" end time: Dec 23 09:44 CST
+"Defaulttest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/10 Testing: Jumpttest
+5/10 Test: Jumpttest
+Command: "/Users/mac/Workspace/DSL_Interpreter/build/jumptest"
+Directory: /Users/mac/Workspace/DSL_Interpreter/build
+"Jumpttest" start time: Dec 23 09:44 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CheckTest
+[ RUN      ] CheckTest.test
+[       OK ] CheckTest.test (0 ms)
+[----------] 1 test from CheckTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.35 sec
+----------------------------------------------------------
+Test Passed.
+"Jumpttest" end time: Dec 23 09:44 CST
+"Jumpttest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/10 Testing: Outputtest
+6/10 Test: Outputtest
+Command: "/Users/mac/Workspace/DSL_Interpreter/build/outputtest"
+Directory: /Users/mac/Workspace/DSL_Interpreter/build
+"Outputtest" start time: Dec 23 09:44 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CheckTest
+[ RUN      ] CheckTest.check
+[       OK ] CheckTest.check (0 ms)
+[----------] 1 test from CheckTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.37 sec
+----------------------------------------------------------
+Test Passed.
+"Outputtest" end time: Dec 23 09:44 CST
+"Outputtest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/10 Testing: Timeouttest
+7/10 Test: Timeouttest
+Command: "/Users/mac/Workspace/DSL_Interpreter/build/timeouttest"
+Directory: /Users/mac/Workspace/DSL_Interpreter/build
+"Timeouttest" start time: Dec 23 09:44 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CheckTest
+[ RUN      ] CheckTest.check
+[       OK ] CheckTest.check (0 ms)
+[----------] 1 test from CheckTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.34 sec
+----------------------------------------------------------
+Test Passed.
+"Timeouttest" end time: Dec 23 09:44 CST
+"Timeouttest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/10 Testing: Statetest
+8/10 Test: Statetest
+Command: "/Users/mac/Workspace/DSL_Interpreter/build/statetest"
+Directory: /Users/mac/Workspace/DSL_Interpreter/build
+"Statetest" start time: Dec 23 09:44 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 5 tests from 2 test suites.
+[----------] Global test environment set-up.
+[----------] 4 tests from FlagTest
+[ RUN      ] FlagTest.isvalid
+[       OK ] FlagTest.isvalid (0 ms)
+[ RUN      ] FlagTest.needinput
+[       OK ] FlagTest.needinput (0 ms)
+[ RUN      ] FlagTest.needdefault
+[       OK ] FlagTest.needdefault (0 ms)
+[ RUN      ] FlagTest.needconjump
+[       OK ] FlagTest.needconjump (0 ms)
+[----------] 4 tests from FlagTest (0 ms total)
+
+[----------] 1 test from StepTest
+[ RUN      ] StepTest.step
+[       OK ] StepTest.step (0 ms)
+[----------] 1 test from StepTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 2 test suites ran. (0 ms total)
+[  PASSED  ] 5 tests.
+<end of output>
+Test time =   0.42 sec
+----------------------------------------------------------
+Test Passed.
+"Statetest" end time: Dec 23 09:44 CST
+"Statetest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/10 Testing: Pharsertest
+9/10 Test: Pharsertest
+Command: "/Users/mac/Workspace/DSL_Interpreter/build/pharsertest"
+Directory: /Users/mac/Workspace/DSL_Interpreter/build
+"Pharsertest" start time: Dec 23 09:44 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 19 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 2 tests from Judgetest
+[ RUN      ] Judgetest.isalpha
+Please enter the script file path and name (must be a.txt file): 
+[       OK ] Judgetest.isalpha (2 ms)
+[ RUN      ] Judgetest.isnum
+Please enter the script file path and name (must be a.txt file): 
+[       OK ] Judgetest.isnum (0 ms)
+[----------] 2 tests from Judgetest (2 ms total)
+
+[----------] 1 test from Normal
+[ RUN      ] Normal.succeed
+Please enter the script file path and name (must be a.txt file): 
+[       OK ] Normal.succeed (2 ms)
+[----------] 1 test from Normal (2 ms total)
+
+[----------] 12 tests from ErrorTest
+[ RUN      ] ErrorTest.leterror
+Please enter the script file path and name (must be a.txt file): 
+[       OK ] ErrorTest.leterror (0 ms)
+[ RUN      ] ErrorTest.nameerrror
+Please enter the script file path and name (must be a.txt file): 
+[       OK ] ErrorTest.nameerrror (0 ms)
+[ RUN      ] ErrorTest.letisnererrror
+Please enter the script file path and name (must be a.txt file): 
+[       OK ] ErrorTest.letisnererrror (0 ms)
+[ RUN      ] ErrorTest.asignerrror
+Please enter the script file path and name (must be a.txt file): 
+[       OK ] ErrorTest.asignerrror (0 ms)
+[ RUN      ] ErrorTest.valueerrror
+Please enter the script file path and name (must be a.txt file): 
+[       OK ] ErrorTest.valueerrror (0 ms)
+[ RUN      ] ErrorTest.stringenderror
+Please enter the script file path and name (must be a.txt file): 
+[       OK ] ErrorTest.stringenderror (0 ms)
+[ RUN      ] ErrorTest.enderror1
+Please enter the script file path and name (must be a.txt file): 
+[       OK ] ErrorTest.enderror1 (0 ms)
+[ RUN      ] ErrorTest.enderror2
+Please enter the script file path and name (must be a.txt file): 
+[       OK ] ErrorTest.enderror2 (0 ms)
+[ RUN      ] ErrorTest.stateerror
+Please enter the script file path and name (must be a.txt file): 
+[       OK ] ErrorTest.stateerror (0 ms)
+[ RUN      ] ErrorTest.statenameerror
+Please enter the script file path and name (must be a.txt file): 
+[       OK ] ErrorTest.statenameerror (0 ms)
+[ RUN      ] ErrorTest.steperror
+Please enter the script file path and name (must be a.txt file): 
+[       OK ] ErrorTest.steperror (0 ms)
+[ RUN      ] ErrorTest.outputerror
+Please enter the script file path and name (must be a.txt file): 
+[       OK ] ErrorTest.outputerror (0 ms)
+[----------] 12 tests from ErrorTest (7 ms total)
+
+[----------] 4 tests from CheckTest
+[ RUN      ] CheckTest.nostarterror
+Please enter the script file path and name (must be a.txt file): 
+[       OK ] CheckTest.nostarterror (1 ms)
+[ RUN      ] CheckTest.exiterror
+Please enter the script file path and name (must be a.txt file): 
+[       OK ] CheckTest.exiterror (1 ms)
+[ RUN      ] CheckTest.needtimeout
+Please enter the script file path and name (must be a.txt file): 
+[       OK ] CheckTest.needtimeout (0 ms)
+[ RUN      ] CheckTest.needdefault
+Please enter the script file path and name (must be a.txt file): 
+[       OK ] CheckTest.needdefault (0 ms)
+[----------] 4 tests from CheckTest (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 19 tests from 4 test suites ran. (16 ms total)
+[  PASSED  ] 19 tests.
+<end of output>
+Test time =   0.39 sec
+----------------------------------------------------------
+Test Passed.
+"Pharsertest" end time: Dec 23 09:44 CST
+"Pharsertest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/10 Testing: Concurrencytest
+10/10 Test: Concurrencytest
+Command: "/Users/mac/Workspace/DSL_Interpreter/build/concurrencytest"
+Directory: /Users/mac/Workspace/DSL_Interpreter/build
+"Concurrencytest" start time: Dec 23 09:44 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/mac/Workspace/DSL_Interpreter/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ConcurrecncyTest
+[ RUN      ] ConcurrecncyTest.concurrency
+Please enter the script file path and name (must be a.txt file): 
+Hello! Please input your username:
+Hello! Please input your username:
+Hello! Please input your username:
+Hello! Please input your username:
+Hello! Please input your username:
+Waiting time too long... disconnected, please log in again if necessary.
+Waiting time too long... disconnected, please log in again if necessary.
+Waiting time too long... disconnected, please log in again if necessary.
+Waiting time too long... disconnected, please log in again if necessary.
+Waiting time too long... disconnected, please log in again if necessary.
+[       OK ] ConcurrecncyTest.concurrency (30104 ms)
+[----------] 1 test from ConcurrecncyTest (30104 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (30104 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =  30.58 sec
+----------------------------------------------------------
+Test Passed.
+"Concurrencytest" end time: Dec 23 09:45 CST
+"Concurrencytest" time elapsed: 00:00:30
+----------------------------------------------------------
+
+End testing: Dec 23 09:45 CST
